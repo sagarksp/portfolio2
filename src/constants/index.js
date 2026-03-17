@@ -166,8 +166,7 @@ const experiences = [
     "Worked on ATMS (Automatic Toll Management System) handling report generation using RDLC reporting and VMS UI development for dynamic vehicle monitoring.",
     "Contributed to the CRMS (Customer Relationship Management System) by resolving critical bugs at both the database and code level, improving system stability and data integrity.",
     "Worked on AMS (Asset Management System) to streamline asset tracking and management workflows.",
-    "Collaborating with cross-functional teams including designers, product managers, and backend engineers to deliver scalable, high-quality software solutions.",
-  ],
+      ],
 },
   {
     title: "Full-Stack Developer",
@@ -196,32 +195,6 @@ const experiences = [
   },
 ];
 
-const testimonials = [
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Sagar proved me wrong.",
-    name: "Vijay kumar",
-    designation: "Ecommerce",
-    company: "QuickMart",
-    image: firstTestimonial,
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Sagar does.",
-    name: "Abdul Raheman",
-    designation: "Ecommerce Business",
-    company: "justbuyz",
-    image: secondTestimonial,
-  },
-  {
-    testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "James Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: thirdTestimonial,
-  },
-];
 
 const projects = [
   {
