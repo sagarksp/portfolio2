@@ -77,6 +77,14 @@ const services = [
 ];
 
 const technologies = [
+   {
+    name: "C#",
+    icon: C#,
+  },
+    {
+    name: "SVN",
+    icon: html,
+  },
   {
     name: "HTML 5",
     icon: html,
