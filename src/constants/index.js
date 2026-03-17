@@ -79,7 +79,7 @@ const services = [
 const technologies = [
    {
     name: "C#",
-    icon: ,
+    icon: gsap,
   },
     {
     name: "SVN",
